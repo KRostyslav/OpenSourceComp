@@ -9,8 +9,10 @@
 * Amazon - Labs - https://github.com/amznlabs
 * Apache - http://commons.apache.org/
 * artsy - https://artsy.github.io/
+* Autodesk -https://autodesk.github.io/
 
 #### B companies
+* badoo - https://tech.badoo.com/ru/open-source/
 * BlaBlaCar - https://github.com/blablacar
 * Box - http://opensource.box.com/
 
