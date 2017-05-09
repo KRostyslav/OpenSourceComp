@@ -1,48 +1,66 @@
-# OpenSourceComp
-Open source organizations
+# Open source organizations
+### Companies
 
-- Adobe - http://adobe.github.io/
-- Airbnb - http://airbnb.io/projects/
-- Amazon - https://github.com/amzn
-- Amazon Web Services - https://github.com/aws
-- Amazon - Labs - https://github.com/amznlabs
-- Apache - http://commons.apache.org/
-- artsy - https://artsy.github.io/
+#### A companies
+* Adobe - http://adobe.github.io/
+* Airbnb - http://airbnb.io/projects/
+* Amazon - https://github.com/amzn
+* Amazon Web Services - https://github.com/aws
+* Amazon - Labs - https://github.com/amznlabs
+* Apache - http://commons.apache.org/
+* artsy - https://artsy.github.io/
 
-- Coursera - http://coursera.github.io/
-- cfpb - https://cfpb.github.io/
+#### B companies
+* BlaBlaCar - https://github.com/blablacar
+* Box - http://opensource.box.com/
 
-- Ersi - http://esri.github.io/
+#### C companies
+* Coursera - http://coursera.github.io/
+* cfpb - https://cfpb.github.io/
 
-- Facebook - https://code.facebook.com/projects/
-- Foursquare - https://github.com/foursquare
+#### E companies
+* Ersi - http://esri.github.io/
 
-- Google - https://opensource.google.com/
-- GitHub - https://github.com/github
+#### F companies
+* Facebook - https://code.facebook.com/projects/
+* Foursquare - https://github.com/foursquare
 
-- IBM - http://ibm.github.io/
-- Instagram - https://github.com/Instagram
+#### G companies
+* Google - https://opensource.google.com/
+* GitHub - https://github.com/github
 
-- LinkedIn - http://linkedin.github.io/
+#### I companies
+* IBM - http://ibm.github.io/
+* Instagram - https://github.com/Instagram
 
-- Microsoft - http://opensource.microsoft.com
-- Mozilla - https://wiki.mozilla.org/Github
+#### L companies
+* LinkedIn - http://linkedin.github.io/
 
-- NASA - https://code.nasa.gov/
-- Netflix - http://netflix.github.io/
+#### M companies
+* Microsoft - http://opensource.microsoft.com
+* Mozilla - https://wiki.mozilla.org/Github
 
-- Pinterest - https://engineering.pinterest.com/open-source
+#### N companies
+* NASA - https://code.nasa.gov/
+* Netflix - http://netflix.github.io/
 
-- SAP - http://sap.github.io/
-- Square - http://square.github.io/
-- shopify - http://shopify.github.io/
-- Spotify - https://spotify.github.io/
-- Stack Overflow - https://github.com/StackExchange
+#### P companies
+* Pinterest - https://engineering.pinterest.com/open-source
 
-- Twitter - http://twitter.github.io/
+#### S companies
+* SAP - http://sap.github.io/
+* Square - http://square.github.io/
+* shopify - http://shopify.github.io/
+* Spotify - https://spotify.github.io/
+* Stack Overflow - https://github.com/StackExchange
 
-- Yahoo - http://yahoo.github.io/
-- Yandex - https://github.com/Yandex
+#### T companies
+* Twitter - http://twitter.github.io/
 
-- Yelp - https://yelp.github.io/
+#### Y companies
+* Yahoo - http://yahoo.github.io/
+* Yandex - https://github.com/Yandex
+
+#### Y companies
+* Yelp - https://yelp.github.io/
 
