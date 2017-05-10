@@ -36,6 +36,7 @@
 * Instagram - https://github.com/Instagram
 
 #### L companies
+* LastFM - https://github.com/lastfm
 * LinkedIn - http://linkedin.github.io/
 
 #### M companies
