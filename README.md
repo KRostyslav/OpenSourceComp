@@ -20,6 +20,9 @@
 * Coursera - http://coursera.github.io/
 * cfpb - https://cfpb.github.io/
 
+#### D companies
+* Diaspora Foundation - https://github.com/diaspora
+
 #### E companies
 * Ersi - http://esri.github.io/
 
