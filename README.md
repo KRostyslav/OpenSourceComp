@@ -24,6 +24,8 @@
 * Diaspora Foundation - https://github.com/diaspora
 
 #### E companies
+* eleks - https://github.com/eleks
+* EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
 
 #### F companies
@@ -41,6 +43,7 @@
 #### L companies
 * LastFM - https://github.com/lastfm
 * LinkedIn - http://linkedin.github.io/
+* Lohika - https://github.com/lohika
 
 #### M companies
 * Microsoft - http://opensource.microsoft.com
@@ -49,6 +52,7 @@
 #### N companies
 * NASA - https://code.nasa.gov/
 * Netflix - http://netflix.github.io/
+* Nokia - https://github.com/nokia
 
 #### P companies
 * Pinterest - https://engineering.pinterest.com/open-source
@@ -66,6 +70,9 @@
 #### Y companies
 * Yahoo - http://yahoo.github.io/
 * Yandex - https://github.com/Yandex
+
+#### W compamies
+* Walmart Labs - https://github.com/walmartlabs
 
 #### Y companies
 * Yelp - https://yelp.github.io/
