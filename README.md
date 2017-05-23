@@ -36,6 +36,9 @@
 * Google - https://opensource.google.com/
 * GitHub - https://github.com/github
 
+#### H companies
+* H%BP - https://h5bp.github.io/
+
 #### I companies
 * IBM - http://ibm.github.io/
 * Instagram - https://github.com/Instagram
