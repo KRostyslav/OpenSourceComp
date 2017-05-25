@@ -24,6 +24,7 @@
 * Diaspora Foundation - https://github.com/diaspora
 
 #### E companies
+* Eclipse Foundation - https://eclipse.org/projects/
 * eleks - https://github.com/eleks
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
@@ -42,6 +43,9 @@
 #### I companies
 * IBM - http://ibm.github.io/
 * Instagram - https://github.com/Instagram
+
+#### J companies
+* JQuery - https://github.com/jquery
 
 #### L companies
 * LastFM - https://github.com/lastfm
