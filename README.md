@@ -25,6 +25,7 @@
 
 #### E companies
 * Eclipse Foundation - https://eclipse.org/projects/
+* edX - https://github.com/edx/
 * eleks - https://github.com/eleks
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
@@ -73,6 +74,9 @@
 
 #### T companies
 * Twitter - http://twitter.github.io/
+
+#### U companies
+* Udemy - https://github.com/udemy
 
 #### Y companies
 * Yahoo - http://yahoo.github.io/
