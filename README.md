@@ -65,6 +65,9 @@
 #### P companies
 * Pinterest - https://engineering.pinterest.com/open-source
 
+#### R companies
+* Reddit - https://github.com/reddit
+
 #### S companies
 * SAP - http://sap.github.io/
 * Square - http://square.github.io/
