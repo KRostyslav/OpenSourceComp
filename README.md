@@ -32,6 +32,7 @@
 
 #### F companies
 * Facebook - https://code.facebook.com/projects/
+* Firebase - https://github.com/firebase/
 * Foursquare - https://github.com/foursquare
 
 #### G companies
