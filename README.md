@@ -4,6 +4,7 @@
 #### A companies
 * Adobe - http://adobe.github.io/
 * Airbnb - http://airbnb.io/projects/
+* Alibaba - https://alibaba.github.io/
 * Amazon - https://github.com/amzn
 * Amazon Web Services - https://github.com/aws
 * Amazon - Labs - https://github.com/amznlabs
