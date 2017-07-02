@@ -10,6 +10,7 @@
 * Amazon - Labs - https://github.com/amznlabs
 * Apache - http://commons.apache.org/
 * artsy - https://artsy.github.io/
+* AT&T - https://github.com/att
 * Autodesk -https://autodesk.github.io/
 
 #### B companies
@@ -35,6 +36,7 @@
 * Facebook - https://code.facebook.com/projects/
 * Firebase - https://github.com/firebase/
 * Foursquare - https://github.com/foursquare
+* Ford - http://corporate.ford.com/ford-open-source.html
 
 #### G companies
 * Google - https://opensource.google.com/
