@@ -67,6 +67,7 @@
 * Nokia - https://github.com/nokia
 
 #### P companies
+* Palantir - https://palantir.github.io/
 * Pinterest - https://engineering.pinterest.com/open-source
 
 #### R companies
@@ -84,6 +85,7 @@
 * Twitter - http://twitter.github.io/
 
 #### U companies
+* Uber - https://uber.github.io/
 * Udemy - https://github.com/udemy
 
 #### Y companies
