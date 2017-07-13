@@ -16,6 +16,7 @@
 #### B companies
 * badoo - https://tech.badoo.com/ru/open-source/
 * BlaBlaCar - https://github.com/blablacar
+* Bloomberg - https://github.com/bloomberg
 * Box - http://opensource.box.com/
 
 #### C companies
@@ -68,6 +69,7 @@
 
 #### P companies
 * Palantir - https://palantir.github.io/
+* PayPal - http://paypal.github.io/
 * Pinterest - https://engineering.pinterest.com/open-source
 
 #### R companies
