@@ -66,6 +66,7 @@
 #### N companies
 * NASA - https://code.nasa.gov/
 * Netflix - http://netflix.github.io/
+* Netguru - https://github.com/netguru
 * Nokia - https://github.com/nokia
 
 #### P companies
