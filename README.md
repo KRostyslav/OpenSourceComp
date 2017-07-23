@@ -24,12 +24,14 @@
 * Coursera - http://coursera.github.io/
 * cfpb - https://cfpb.github.io/
 
-#### D companies
+#### D companiesї
+* Docker - https://www.docker.com/open-source
 * Diaspora Foundation - https://github.com/diaspora
 
 #### E companies
 * Eclipse Foundation - https://eclipse.org/projects/
 * edX - https://github.com/edx/
+* elastic - https://github.com/elastic
 * eleks - https://github.com/eleks
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
