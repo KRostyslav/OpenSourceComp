@@ -35,6 +35,7 @@
 * eleks - https://github.com/eleks
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
+* Europeana - https://github.com/europeana
 
 #### F companies
 * Facebook - https://code.facebook.com/projects/
