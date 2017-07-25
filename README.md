@@ -99,6 +99,9 @@
 * Yahoo - http://yahoo.github.io/
 * Yandex - https://github.com/Yandex
 
+#### V companies
+* Verizon - https://verizon.github.io/
+
 #### W compamies
 * Walmart Labs - https://github.com/walmartlabs
 
