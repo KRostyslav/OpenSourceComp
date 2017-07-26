@@ -58,6 +58,9 @@
 #### J companies
 * JQuery - https://github.com/jquery
 
+#### K companies
+* Kubernetes - https://github.com/kubernetes
+
 #### L companies
 * LastFM - https://github.com/lastfm
 * LinkedIn - http://linkedin.github.io/
