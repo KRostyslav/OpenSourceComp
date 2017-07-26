@@ -99,10 +99,6 @@
 * Uber - https://uber.github.io/
 * Udemy - https://github.com/udemy
 
-#### Y companies
-* Yahoo - http://yahoo.github.io/
-* Yandex - https://github.com/Yandex
-
 #### V companies
 * Verizon - https://verizon.github.io/
 
@@ -110,5 +106,7 @@
 * Walmart Labs - https://github.com/walmartlabs
 
 #### Y companies
+* Yahoo - http://yahoo.github.io/
+* Yandex - https://github.com/Yandex
 * Yelp - https://yelp.github.io/
 
