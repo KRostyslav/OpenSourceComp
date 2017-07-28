@@ -28,6 +28,7 @@
 #### D companiesї
 * Docker - https://www.docker.com/open-source
 * Diaspora Foundation - https://github.com/diaspora
+* Dropbox - https://opensource.dropbox.com/
 
 #### E companies
 * Eclipse Foundation - https://eclipse.org/projects/
