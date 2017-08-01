@@ -112,3 +112,6 @@
 * Yandex - https://github.com/Yandex
 * Yelp - https://yelp.github.io/
 
+#### Z companies
+* Zynga - https://github.com/zynga
+
