@@ -10,6 +10,7 @@
 * Amazon - Labs - https://github.com/amznlabs
 * Apache - http://commons.apache.org/
 * artsy - https://artsy.github.io/
+* Atlassian - https://github.com/atlassian
 * AT&T - https://github.com/att
 * Autodesk -https://autodesk.github.io/
 
