@@ -111,6 +111,7 @@
 
 #### Y companies
 * Yahoo - http://yahoo.github.io/
+* Yalantis - https://github.com/yalantis
 * Yandex - https://github.com/Yandex
 * Yelp - https://yelp.github.io/
 
