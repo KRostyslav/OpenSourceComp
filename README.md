@@ -79,6 +79,7 @@
 * Netflix - http://netflix.github.io/
 * Netguru - https://github.com/netguru
 * Nokia - https://github.com/nokia
+* npm - https://github.com/npm
 
 #### P companies
 * Palantir - https://palantir.github.io/
