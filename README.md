@@ -28,6 +28,7 @@
 * Cisco Systems - https://developer.cisco.com/site/opensource/ ( https://github.com/cisco-open-source )
 
 #### D companiesї
+* Devlight - https://github.com/Devlight
 * Docker - https://www.docker.com/open-source
 * Diaspora Foundation - https://github.com/diaspora
 * Dropbox - https://opensource.dropbox.com/
