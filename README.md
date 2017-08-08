@@ -23,6 +23,7 @@
 * Box - http://opensource.box.com/
 
 #### C companies
+* Cleveroad - https://github.com/Cleveroad
 * Coursera - http://coursera.github.io/
 * cfpb - https://cfpb.github.io/
 * Cisco Systems - https://developer.cisco.com/site/opensource/ ( https://github.com/cisco-open-source )
