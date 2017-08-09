@@ -108,6 +108,7 @@
 * Udemy - https://github.com/udemy
 
 #### V companies
+* Valve Software - https://github.com/ValveSoftware
 * Verizon - https://verizon.github.io/
 
 #### W compamies
