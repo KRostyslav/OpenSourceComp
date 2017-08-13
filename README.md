@@ -62,6 +62,7 @@
 * IBM - http://ibm.github.io/
 * iGov - E-Government of Ukraine - https://github.com/e-government-ua
 * Instagram - https://github.com/Instagram
+* Intel - https://01.org/
 
 #### J companies
 * JQuery - https://github.com/jquery
