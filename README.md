@@ -37,12 +37,13 @@
 #### E companies
 * Eclipse Foundation - https://eclipse.org/projects/
 * edX - https://github.com/edx/
-* ethereum - https://github.com/ethereum/
 * elastic - https://github.com/elastic
 * Electronic Arts - https://gpl.ea.com/
 * eleks - https://github.com/eleks
+* EMC - http://codedellemc.com/
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
+* ethereum - https://github.com/ethereum/
 * Europeana - https://github.com/europeana
 
 #### F companies
