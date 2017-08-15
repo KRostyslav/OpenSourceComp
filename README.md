@@ -35,6 +35,7 @@
 * Dropbox - https://opensource.dropbox.com/
 
 #### E companies
+* eBay - https://github.com/eBay
 * Eclipse Foundation - https://eclipse.org/projects/
 * edX - https://github.com/edx/
 * elastic - https://github.com/elastic
