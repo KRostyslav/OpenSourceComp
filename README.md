@@ -54,6 +54,7 @@
 * Ford - http://corporate.ford.com/ford-open-source.html
 
 #### G companies
+* Goodreads - https://github.com/goodreads
 * Google - https://opensource.google.com/
 * GitHub - https://github.com/github
 
