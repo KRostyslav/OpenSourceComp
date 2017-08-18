@@ -60,6 +60,7 @@
 * Goodreads - https://github.com/goodreads
 * Google - https://opensource.google.com/
 * GitHub - https://github.com/github
+* GitLab - https://gitlab.com/gitlab-org
 
 #### H companies
 * H%BP - https://h5bp.github.io/
