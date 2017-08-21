@@ -20,6 +20,7 @@
 
 #### B companies
 * badoo - https://tech.badoo.com/ru/open-source/
+* Baidu - https://github.com/baidu
 * Basecamp - https://basecamp.com/about/open-source
 * BlaBlaCar - https://github.com/blablacar
 * Bloomberg - https://github.com/bloomberg
