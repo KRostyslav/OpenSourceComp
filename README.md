@@ -100,6 +100,7 @@
 * Pinterest - https://engineering.pinterest.com/open-source
 
 #### R companies
+* Rakuten, Inc. - https://github.com/rakutentech
 * Reddit - https://github.com/reddit
 
 #### S companies
