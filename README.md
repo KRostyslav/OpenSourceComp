@@ -115,6 +115,7 @@
 
 #### T companies
 * Tinkoff Bank - https://github.com/TinkoffCreditSystems
+* TripAdvisor - https://github.com/tripadvisor
 * Twitter - http://twitter.github.io/
 
 #### U companies
