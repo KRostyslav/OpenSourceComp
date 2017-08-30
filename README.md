@@ -54,6 +54,7 @@
 #### F companies
 * Facebook - https://code.facebook.com/projects/
 * Firebase - https://github.com/firebase/
+* Flipkart - https://github.com/Flipkart
 * Foursquare - https://github.com/foursquare
 * Ford - http://corporate.ford.com/ford-open-source.html
 
