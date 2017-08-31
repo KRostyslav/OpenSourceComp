@@ -137,5 +137,6 @@
 * Yelp - https://yelp.github.io/
 
 #### Z companies
+* Zalando - https://zalando.github.io/#repositories
 * Zynga - https://github.com/zynga
 
