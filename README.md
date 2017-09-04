@@ -108,6 +108,7 @@
 * Reddit - https://github.com/reddit
 
 #### S companies
+* Salesforce - https://github.com/salesforce
 * SAP - http://sap.github.io/
 * Square - http://square.github.io/
 * shopify - http://shopify.github.io/
