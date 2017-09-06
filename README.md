@@ -36,6 +36,7 @@
 * Devlight - https://github.com/Devlight
 * Docker - https://www.docker.com/open-source
 * Diaspora Foundation - https://github.com/diaspora
+* DigitalOcean - https://developers.digitalocean.com/opensource/
 * Dropbox - https://opensource.dropbox.com/
 
 #### E companies
