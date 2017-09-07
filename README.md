@@ -37,6 +37,7 @@
 * Docker - https://www.docker.com/open-source
 * Diaspora Foundation - https://github.com/diaspora
 * DigitalOcean - https://developers.digitalocean.com/opensource/
+* Disney - https://disney.github.io/
 * Dropbox - https://opensource.dropbox.com/
 
 #### E companies
