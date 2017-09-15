@@ -101,6 +101,9 @@
 * Nokia - https://github.com/nokia
 * npm - https://github.com/npm
 
+#### O companies
+* openHUB - https://github.com/openhab
+
 #### P companies
 * Palantir - https://palantir.github.io/
 * PayPal - http://paypal.github.io/
