@@ -98,6 +98,7 @@
 * Naver Corporation - https://naver.github.io/
 * Netflix - http://netflix.github.io/
 * Netguru - https://github.com/netguru
+* Node.js Foundation - https://github.com/nodejs
 * Nokia - https://github.com/nokia
 * npm - https://github.com/npm
 
