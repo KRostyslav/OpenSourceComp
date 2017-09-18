@@ -78,6 +78,7 @@
 * Intel - https://01.org/
 
 #### J companies
+* JetBrains - https://github.com/JetBrains
 * JQuery - https://github.com/jquery
 
 #### K companies
