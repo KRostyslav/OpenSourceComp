@@ -51,6 +51,7 @@
 * EPAM Systems - https://github.com/epam
 * Ersi - http://esri.github.io/
 * ethereum - https://github.com/ethereum/
+* Evernote - https://github.com/evernote
 * Europeana - https://github.com/europeana
 
 #### F companies
