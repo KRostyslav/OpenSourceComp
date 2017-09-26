@@ -91,6 +91,7 @@
 * Lohika - https://github.com/lohika
 
 #### M companies
+* MariaDB - https://github.com/MariaDB
 * Microsoft - http://opensource.microsoft.com
 * MongoDB - https://github.com/mongodb
 * Mozilla - https://wiki.mozilla.org/Github
