@@ -92,6 +92,7 @@
 
 #### M companies
 * MariaDB - https://github.com/MariaDB
+* Medium - https://github.com/Medium
 * Microsoft - http://opensource.microsoft.com
 * MongoDB - https://github.com/mongodb
 * Mozilla - https://wiki.mozilla.org/Github
