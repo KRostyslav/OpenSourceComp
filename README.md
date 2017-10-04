@@ -70,6 +70,7 @@
 * Groupon - https://github.com/groupon
 
 #### H companies
+* hazelcast - https://github.com/hazelcast
 * H%BP - https://h5bp.github.io/
 
 #### I companies
