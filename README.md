@@ -101,6 +101,7 @@
 #### N companies
 * NASA - https://code.nasa.gov/
 * Naver Corporation - https://naver.github.io/
+* Neo4j - https://github.com/neo4j
 * Netflix - http://netflix.github.io/
 * Netguru - https://github.com/netguru
 * Node.js Foundation - https://github.com/nodejs
