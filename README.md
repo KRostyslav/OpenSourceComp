@@ -123,6 +123,7 @@
 #### S companies
 * Salesforce - https://github.com/salesforce
 * SAP - http://sap.github.io/
+* SoundCloud - https://github.com/soundcloud
 * Square - http://square.github.io/
 * shopify - http://shopify.github.io/
 * Spotify - https://spotify.github.io/
