@@ -130,6 +130,7 @@
 * Stack Overflow - https://github.com/StackExchange
 
 #### T companies
+* The Document Foundation - https://github.com/tdf
 * Tinkoff Bank - https://github.com/TinkoffCreditSystems
 * TripAdvisor - https://github.com/tripadvisor
 * Twitter - http://twitter.github.io/
