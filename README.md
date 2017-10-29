@@ -115,6 +115,7 @@
 * Palantir - https://palantir.github.io/
 * PayPal - http://paypal.github.io/
 * Pinterest - https://engineering.pinterest.com/open-source
+* Pivotal Labs - https://github.com/pivotal
 
 #### R companies
 * Rakuten, Inc. - https://github.com/rakutentech
