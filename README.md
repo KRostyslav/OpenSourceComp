@@ -129,6 +129,7 @@
 * shopify - http://shopify.github.io/
 * Spotify - https://spotify.github.io/
 * Stack Overflow - https://github.com/StackExchange
+* Stripe - https://github.com/stripe
 
 #### T companies
 * The Document Foundation - https://github.com/tdf
