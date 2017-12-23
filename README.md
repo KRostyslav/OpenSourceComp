@@ -60,6 +60,7 @@
 * Flipkart - https://github.com/Flipkart
 * Foursquare - https://github.com/foursquare
 * Ford - http://corporate.ford.com/ford-open-source.html
+* freeCodeCamp - https://github.com/freeCodeCamp
 
 #### G companies
 * Goodreads - https://github.com/goodreads
